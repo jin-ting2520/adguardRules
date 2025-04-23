@@ -228,3 +228,4 @@ appinn.com##.featured-section
 ||*-normal-lf.ecombdapi.com^$important
 ||*-normal-lq.ecombdapi.com^$important
 ||feedback-c.zijieapi.com^$important
+||*sdk.clickwifi.net^$important
