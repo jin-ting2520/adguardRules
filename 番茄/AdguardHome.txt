@@ -171,7 +171,6 @@ appinn.com##.featured-section
 ||bsync*-normal-lq.zijieapi.com^$important
 ||mon*-misc-lf.fqnovel.com^$important
 ||polaris*-normal-lq.zijieapi.com^$important
-||pinduoduo.com^$important
 ||webcast*-open-lq.douyin.com^$important
 ||ads*-normal-lq.zijieapi.com^$important
 ||rtlog*-applog-lq.fqnovel.com^$important
@@ -179,7 +178,6 @@ appinn.com##.featured-section
 ||pull-*.douyincdn.com^$important
 ||pull-*.douyinliving.com^$important
 ||douyinpic.com^$important
-||bytedance.com^$important
 ||feedback-*.zijieapi.com^$important
 ||mon*-misc-lq.fqnovel.com^$important
 ||log*-applog-lq.fqnovel.com^$important
@@ -204,7 +202,6 @@ appinn.com##.featured-section
 ||fanqiesdkpic.com^$important
 ||fanqiesdkstatic.com^$important
 ||fanqiesdkvod.com^$important
-||fqnovel.com^$important
 ||fqnovelim.com^$important
 ||fqnovel-op.com^$important
 ||fqnovelop.com^$important
@@ -223,3 +220,11 @@ appinn.com##.featured-section
 ||qznovelvod.com^$important
 ||*-applog-hl.fqnovel.com^$important
 ||*-ad-sign.byteimg.com^$important
+||p*-ecom-qualification-sign.ecombdimg.com^$important
+@@||wl.jd.com^$important
+||mktm.jd.com^$important
+||api-e189.21cn.com^$important
+||ec3-core-lq.ecombdapi.com^
+||ecom3-normal-lf.ecombdapi.com^
+||ecom3-normal-lq.ecombdapi.com^
+||feedback-c.zijieapi.com^
