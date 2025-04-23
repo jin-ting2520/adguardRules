@@ -224,7 +224,7 @@ appinn.com##.featured-section
 @@||wl.jd.com^$important
 ||mktm.jd.com^$important
 ||api-e189.21cn.com^$important
-||ec3-core-lq.ecombdapi.com^
-||ecom3-normal-lf.ecombdapi.com^
-||ecom3-normal-lq.ecombdapi.com^
-||feedback-c.zijieapi.com^
+||*-core-lq.ecombdapi.com^$important
+||*-normal-lf.ecombdapi.com^$important
+||*-normal-lq.ecombdapi.com^$important
+||feedback-c.zijieapi.com^$important
