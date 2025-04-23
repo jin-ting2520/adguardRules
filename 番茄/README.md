@@ -1,0 +1,1 @@
+尽量还是用AdGuard APP，AdGuardHome去不全还可能误杀
