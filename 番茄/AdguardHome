@@ -188,6 +188,7 @@ appinn.com##.featured-section
 ||pglstatp-toutiao.com^$important
 ||pull-*-*.ixigua.com^$important
 ||v*-default.ixigua.com^$important
+||ndcpp.com^$important
 @@||imapi5-oth-*.zijieapi.com^
 # 版本不安全显示
 @@||mssdk3-normal-*.zijieapi.com^
