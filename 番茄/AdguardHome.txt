@@ -269,7 +269,7 @@ appinn.com##.featured-section
 ||sf*-cdn-tos.douyinstatic.com^$important
 ||lf*-analytics.bytescm.com^$important
 ||lf*-beecdn.bytetos.com^$important
-
+||api.toutiaoapi.com^$important
 
 ! 我的消息显示
 @@||reading.snssdk.com^$important
