@@ -52,7 +52,6 @@ appinn.com##.featured-section
 ||feedback-c.zijieapi.com^$important
 ||is-lq.snssdk.com^$important
 /zijieapi.*/
-/bytedance.*/
 ||p3-be-pack-sign.pglstatp-toutiao.com^$important
 ||skdisplay.jd.com^$important
 ||p9-be-pack-sign.pglstatp-toutiao.com^$important
@@ -242,4 +241,4 @@ appinn.com##.featured-section
 ||zlink.toutiao.com^$important
 ||config-p2p-other.vcloud.ks-live.com^$important
 ||slb-p2p.vcloud.ks-live.com^$important
-@@||www.bytedance.com^$important^$important
+@@||*.bytedance.com^$important^$important
