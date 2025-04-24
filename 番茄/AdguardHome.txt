@@ -1,8 +1,5 @@
-||v3-novelapp.fqnovelvod.com^$important
 ||116.169.11.31:443^$important
 ||sf3-fe-tos.pglstatp-toutiao.com^$important
-||saveu5-normal-lq.zijieapi.com^$important
-||v6-novelapp.fqnovelvod.com^$important
 ||v3-be-pack.pglstatp-toutiao.com^$important
 ||p3-webcast.douyinpic.com^$important
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
@@ -36,11 +33,9 @@ appinn.com###sidebar.wp-block-image, .size-full
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
 /ad-sign.*/
 ||113.207.83.53:443^$important
-||ads5-normal-lq.zijieapi.com^$important
 ||ads5-normal-lf.zijieapi.com^$important
 ||112.194.65.102:80^$important
 ||112.192.22.90:443^$important
-||ma5-normal-lq.zijieapi.com^$important
 ||116.132.223.77:443^$important
 /bytegoofy.*/
 ||api-access.pangolin-sdk-toutiao.com^$important
@@ -48,14 +43,12 @@ appinn.com##.featured-section
 ||imapi2.snssdk.com^$important
 /byteorge.*/
 /mgsdk-sign.*/
-||polaris3-normal-lq.zijieapi.com^$important
 ||v6-be-pack.pglstatp-toutiao.com^$important
 ||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
 ||116.169.11.27:443^$important
 ||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/
-||abtest3-misc-lq.zijieapi.com^$important
 /pangolin-sdk.*/
-||gecko5-lq.zijieapi.com^$important
+||gecko*-lq.zijieapi.com^$important
 ||feedback-c.zijieapi.com^$important
 ||is-lq.snssdk.com^$important
 /zijieapi.*/
@@ -65,16 +58,12 @@ appinn.com##.featured-section
 ||p9-be-pack-sign.pglstatp-toutiao.com^$important
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
 ||p26-be-pack-sign.pglstatp-toutiao.com^$important
-||p3-novel.byteimg.com^$important
-||p6-ad-sign.byteimg.com^$important
 /snssdk.*/
 ||116.169.48.137:443^$important
 ||p3-novelfm-sign.novelfmpic.com^$important
 ||v9-be-pack.pglstatp-toutiao.com^$important
 ||101.206.201.225:443^$important
-||ads3-normal-lq.zijieapi.com^$important
 ||101.207.252.229:443^$important
-||p9-ad-sign.byteimg.com^$important
 ||adsoptimal.com^
 ||adversaldisplay.com^
 ||affiliates.minglematch.com^
@@ -145,8 +134,7 @@ appinn.com##.featured-section
 ||zijie*
 ||pangolin*
 @@||mssdk3-normal-hl.zijieapi.com^$important,important
-@@||v3-fq-tts.fqnovelvod.com$important
-@@||v26-fq-tts.fqnovelvod.com$important
+@@||v*-fq-tts.fqnovelvod.com$important
 ||api-cn.store.heytapmobi.com^$app=com.heytap.market
 ||epoch-cn.cdo.heytapmobi.com^$app=com.heytap.market
 202.118.1.130:123$network,app=com.heytap.market
@@ -164,7 +152,6 @@ appinn.com##.featured-section
 ||lf*-cj-cdn-tos.bytegecko.com^$important
 ||saveu*-normal-lq.zijieapi.com^$important
 ||tnc*-aliec*.zijieapi.com^$important
-||gecko*-lq.zijieapi.com^$important
 ||vcs-lq.snssdk.com^$important
 ||ichannel.snssdk.com^$important
 ||v*-novelapp.fqnovelvod.com^$important
@@ -205,15 +192,14 @@ appinn.com##.featured-section
 ||fqnovelim.com^$important
 ||fqnovel-op.com^$important
 ||fqnovelop.com^$important
-||fqnovelpic.com^$important
+||fqnovelpic.com^
 ||fqnovelstatic.com^$important
-||fqnovelvod.com^$important
+||fqnovelvod.com^
 ||ihaohaoxuexi.com^$important
 ||muyewx.com^$important
-||novelfm.com^$important
 ||novelfmpic.com^$important
 ||novelfmstatic.com^$important
-||novelfmvod.com^$important
+||v*-novelfm.novelfmvod.com^$important
 ||qznovel.com^$important
 ||qznovelpic.com^$important
 ||qznovelstatic.com^$important
@@ -238,3 +224,13 @@ appinn.com##.featured-section
 ||frontier*-toutiao.snssdk.com^$important
 ||frontier*-toutiao-hl.fqnovel.com^$important
 ||frontier*-toutiao-lf.fqnovel.com^$important
+||*.vegslb.com^$important
+||api*-normal-lf.fqnovel.com^$important
+||api*-normal-lq.fqnovel.com^$important
+||api*-normal-sinfonlinea.fqnovel.com^$important
+||pull-f*-xg.flive.ixigua.com^$important
+||pull-tsl-l*-encryption.douyincdn.com^$important
+||pull-f*-io.flive.douyincdn.com^$important
+||p*-aio.ecombdimg.com^$important
+||mon*-misc-lq.novelfm.com^$important
+||log*-applog-lq.novelfm.com^$important
