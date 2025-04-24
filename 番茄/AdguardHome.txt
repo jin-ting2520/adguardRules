@@ -259,3 +259,5 @@ appinn.com##.featured-section
 ||lf26-effectcdn-tos.byteeffecttos.com^
 ||lf-reward-video.bytedcdn.com^
 ||lf*-static.bytednsdoc.com^$important
+||p*.ecombdimg.com^$important
+||lf*-fe.ecombdstatic.com^$important
