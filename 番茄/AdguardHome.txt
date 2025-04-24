@@ -257,3 +257,5 @@ appinn.com##.featured-section
 @@||api5-normal-sinfonlinea.fqnovel.com^$important
 ||dispatch-api-online.vemarsdev.com^
 ||lf26-effectcdn-tos.byteeffecttos.com^
+||lf-reward-video.bytedcdn.com^
+||lf*-static.bytednsdoc.com^$important
