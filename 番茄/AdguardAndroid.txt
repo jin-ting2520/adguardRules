@@ -239,5 +239,8 @@ appinn.com##.featured-section
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^$important,app=com.dragon.read
 ||*-applog.fqnovel.com^$important,app=com.dragon.read
 ||mon*-misc.fqnovel.com^$important,app=com.dragon.read
-||api.toutiaoapi.com^$important,app=com.dragon.read
 ||zlink.toutiao.com^$important,app=com.dragon.read
+||config-p2p-other.vcloud.ks-live.com^$important,app=com.dragon.read
+||slb-p2p.vcloud.ks-live.com^$important,app=com.dragon.read
+@@||v3-novelapp.fqnovelvod.com^$important,app=com.dragon.read
+@@||v26-novelapp.fqnovelvod.com^$important,app=com.dragon.read
