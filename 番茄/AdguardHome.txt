@@ -249,3 +249,4 @@ appinn.com##.featured-section
 ||lf*-pitaya.bytetos.com^$important
 ||pitaya.bytedance.com^$important
 @@||reading.snssdk.com^$important
+||0kkkkkt.com^$important
