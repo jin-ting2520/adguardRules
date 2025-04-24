@@ -283,6 +283,8 @@ appinn.com##.featured-section
 ||webcast*-open.douyin.com^$important
 ||qcc.qualcomm.cn^$important
 ||pathcf.prod.xtracloud.cn^$important
+||open.douyin.com^$important
+
 
 ! 我的消息显示
 @@||reading.snssdk.com^$important
