@@ -270,6 +270,7 @@ appinn.com##.featured-section
 ||lf*-analytics.bytescm.com^$important
 ||lf*-beecdn.bytetos.com^$important
 ||api.toutiaoapi.com^$important
+||thclouds.com^$important
 
 ! 我的消息显示
 @@||reading.snssdk.com^$important
