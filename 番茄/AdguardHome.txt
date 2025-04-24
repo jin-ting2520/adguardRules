@@ -242,3 +242,5 @@ appinn.com##.featured-section
 ||config-p2p-other.vcloud.ks-live.com^$important
 ||slb-p2p.vcloud.ks-live.com^$important
 @@||bytedance.com^$important
+@@||v3-novelapp.fqnovelvod.com^$important
+@@||v26-novelapp.fqnovelvod.com^$important
