@@ -230,3 +230,4 @@ appinn.com##.featured-section
 ||feedback-c.zijieapi.com^$important
 ||*sdk.clickwifi.net^$important
 ||aps.amap.com^$important
+||erer.homeborn.cn^$important
