@@ -239,3 +239,5 @@ appinn.com##.featured-section
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
 ||*-applog.fqnovel.com^$important
 ||mon*-misc.fqnovel.com^$important
+||api.toutiaoapi.com^$important
+||zlink.toutiao.com^$important
