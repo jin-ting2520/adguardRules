@@ -266,3 +266,6 @@ appinn.com##.featured-section
 ||p*-ecop-imagex.byteimg.com^$important
 ||lf*-effectcdn-tos.byteeffecttos.com^$important
 ||lf*-webcastcdn-tos-sign.douyinstatic.com^$important
+||sf*-cdn-tos.douyinstatic.com^$important
+||lf*-analytics.bytescm.com^$important
+||lf*-beecdn.bytetos.com^$important
