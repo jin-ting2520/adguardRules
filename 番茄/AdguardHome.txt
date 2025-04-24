@@ -254,3 +254,4 @@ appinn.com##.featured-section
 ||ahdohpiechei.com^$important
 ||qtaeixd.com^$important
 ||tt.x.bsgslb.cn^$important
+@@||api5-normal-sinfonlinea.fqnovel.com^$important
