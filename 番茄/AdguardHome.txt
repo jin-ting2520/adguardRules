@@ -237,3 +237,5 @@ appinn.com##.featured-section
 ||settings.ttwebview.com^$important
 ||sf3-ttcdn-tos.pstatp.com^$important
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
+||*-applog.fqnovel.com^$important
+||mon*-misc.fqnovel.com^$important
