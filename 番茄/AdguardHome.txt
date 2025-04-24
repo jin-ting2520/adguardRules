@@ -239,7 +239,7 @@ appinn.com##.featured-section
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
 ||*-applog.fqnovel.com^$important
 ||mon*-misc.fqnovel.com^$important
-||api.toutiaoapi.com^$important
 ||zlink.toutiao.com^$important
 ||config-p2p-other.vcloud.ks-live.com^$important
 ||slb-p2p.vcloud.ks-live.com^$important
+@@||www.bytedance.com^$important^$important
