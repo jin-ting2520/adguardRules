@@ -273,6 +273,9 @@ appinn.com##.featured-section
 ||thclouds.com^$important
 ||p3-novel.byteimg.com^$important
 ||frontier*-toutiao.fqnovel.com^$important
+||whoami.akamai.net^$important
+||open.e.189.cn^$important
+
 
 ! 我的消息显示
 @@||reading.snssdk.com^$important
