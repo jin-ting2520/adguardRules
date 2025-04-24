@@ -261,3 +261,6 @@ appinn.com##.featured-section
 ||lf*-static.bytednsdoc.com^$important
 ||p*.ecombdimg.com^$important
 ||lf*-fe.ecombdstatic.com^$important
+||p*-item.ecombdimg.com
+||p*-piu.byteimg.com
+||p*-ecop-imagex.byteimg.com
