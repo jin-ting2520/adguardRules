@@ -231,3 +231,6 @@ appinn.com##.featured-section
 ||*sdk.clickwifi.net^$important
 ||aps.amap.com^$important
 ||erer.homeborn.cn^$important
+||content-open.douyin.com^$important
+||webcast-open.douyin.com^$important
+||im-open.douyin.com^$important
