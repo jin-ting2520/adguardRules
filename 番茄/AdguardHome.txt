@@ -244,3 +244,4 @@ appinn.com##.featured-section
 @@||bytedance.com^$important
 @@||v3-novelapp.fqnovelvod.com^$important
 @@||v26-novelapp.fqnovelvod.com^$important
+@@||api5-normal-sinfonlinea.fqnovel.com^$important
