@@ -244,3 +244,7 @@ appinn.com##.featured-section
 @@||bytedance.com^$important
 @@||v3-novelapp.fqnovelvod.com^$important
 @@||v26-novelapp.fqnovelvod.com^$important
+||siomxity.com^$important
+||sf*-pitaya-tos.pstatp.com^$important
+||lf*-pitaya.bytetos.com^$important
+||pitaya.bytedance.com^$important
