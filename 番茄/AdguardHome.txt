@@ -1,6 +1,6 @@
 ||116.169.11.31:443^$important
-||sf3-fe-tos.pglstatp-toutiao.com^$important
-||v3-be-pack.pglstatp-toutiao.com^$important
+||sf*-fe-tos.pglstatp-toutiao.com^$important
+||v*-be-pack.pglstatp-toutiao.com^$important
 ||p3-webcast.douyinpic.com^$important
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
 ||tnc3-bjlgy.zijieapi.com^$important
@@ -14,7 +14,7 @@
 ||lf9-cdn-tos.bytegecko.com^$important
 ||203.119.216.50:443^$important
 ||dgstatic.jd.com/dg/ksdk/mid-page.html^$important
-||p6-be-pack-sign.pglstatp-toutiao.com^$important
+||p*-be-pack-sign.pglstatp-toutiao.com^$important
 ||zijieapi.com^$important
 appinn.com###latest-posts .latestPost:nth-child（-n+3）
 ||dig.bdurl.net^$important
@@ -133,7 +133,7 @@ appinn.com##.featured-section
 ||app.rm
 ||zijie*
 ||pangolin*
-@@||mssdk3-normal-hl.zijieapi.com^$important,important
+@@||mssdk*-normal-hl.zijieapi.com^$important
 @@||v*-fq-tts.fqnovelvod.com$important
 ||api-cn.store.heytapmobi.com^$app=com.heytap.market
 ||epoch-cn.cdo.heytapmobi.com^$app=com.heytap.market
@@ -234,3 +234,6 @@ appinn.com##.featured-section
 ||p*-aio.ecombdimg.com^$important
 ||mon*-misc-lq.novelfm.com^$important
 ||log*-applog-lq.novelfm.com^$important
+||settings.ttwebview.com^$important
+||sf3-ttcdn-tos.pstatp.com^$important
+||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
