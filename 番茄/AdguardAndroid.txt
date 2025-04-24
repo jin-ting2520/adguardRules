@@ -9,7 +9,7 @@
 ||tnc11-bjlgy.zijieapi.com^$important,app=com.dragon.read
 ||123.6.82.180:80^$important,app=com.dragon.read
 ||tnc3-aliec2.zijieapi.com^$important,app=com.dragon.read
-/fqnovelvod.*/
+/fqnovelvod.*/$important,app=com.dragon.read
 ||p3-webcast-sign.douyinpic.com^$important,app=com.dragon.read
 ||lf9-cdn-tos.bytegecko.com^$important,app=com.dragon.read
 ||203.119.216.50:443^$important,app=com.dragon.read
@@ -22,7 +22,7 @@ appinn.com###latest-posts .latestPost:nth-child（-n+3）
 ||lf-cdn-tos.bytescm.com^$important,app=com.dragon.read
 ||frontier-toutiao.snssdk.com^$important,app=com.dragon.read
 ||mon11-misc-lq.fqnovel.com^$important,app=com.dragon.read
-/lf.fqnovel.*/
+/lf.fqnovel.*/$important,app=com.dragon.read
 ||p9-novelfm-sign.novelfmpic.com^$important,app=com.dragon.read
 ||p26.douyinpic.com^$important,app=com.dragon.read
 appinn.com###sidebar.wp-block-image, .size-full
@@ -31,34 +31,34 @@ appinn.com###sidebar.wp-block-image, .size-full
 ||tnc3-alisc1.zijieapi.com^$important,app=com.dragon.read
 ||111.13.24.68:443^$important,app=com.dragon.read
 ||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
-/ad-sign.*/
+/ad-sign.*/$important,app=com.dragon.read
 ||113.207.83.53:443^$important,app=com.dragon.read
 ||ads5-normal-lf.zijieapi.com^$important,app=com.dragon.read
 ||112.194.65.102:80^$important,app=com.dragon.read
 ||112.192.22.90:443^$important,app=com.dragon.read
 ||116.132.223.77:443^$important,app=com.dragon.read
-/bytegoofy.*/
+/bytegoofy.*/$important,app=com.dragon.read
 ||api-access.pangolin-sdk-toutiao.com^$important,app=com.dragon.read
-appinn.com##.featured-section
+appinn.com##.featured-section$important,app=com.dragon.read
 ||imapi2.snssdk.com^$important,app=com.dragon.read
-/byteorge.*/
-/mgsdk-sign.*/
+/byteorge.*/$important,app=com.dragon.read
+/mgsdk-sign.*/$important,app=com.dragon.read
 ||v6-be-pack.pglstatp-toutiao.com^$important,app=com.dragon.read
 ||api2.coolapk.com/v6/main/init$replace=/{"id":1170.*?}\,/ /
 ||116.169.11.27:443^$important,app=com.dragon.read
 ||api2.coolapk.com/v6/feed/detail$replace=/\,"detailSponsorCard":{.*}/}}/
-/pangolin-sdk.*/
+/pangolin-sdk.*/$important,app=com.dragon.read
 ||gecko*-lq.zijieapi.com^$important,app=com.dragon.read
 ||feedback-c.zijieapi.com^$important,app=com.dragon.read
 ||is-lq.snssdk.com^$important,app=com.dragon.read
-/zijieapi.*/
-/bytedance.*/
+/zijieapi.*/$important,app=com.dragon.read
+/bytedance.*/$important,app=com.dragon.read
 ||p3-be-pack-sign.pglstatp-toutiao.com^$important,app=com.dragon.read
 ||skdisplay.jd.com^$important,app=com.dragon.read
 ||p9-be-pack-sign.pglstatp-toutiao.com^$important,app=com.dragon.read
 ||api2.coolapk.com/v6/page/dataList$replace=/{"entityType":"card"\,"entityTemplate":"apkImageCard".*?\\u0022}"}\,/ /
 ||p26-be-pack-sign.pglstatp-toutiao.com^$important,app=com.dragon.read
-/snssdk.*/
+/snssdk.*/$important,app=com.dragon.read
 ||116.169.48.137:443^$important,app=com.dragon.read
 ||p3-novelfm-sign.novelfmpic.com^$important,app=com.dragon.read
 ||v9-be-pack.pglstatp-toutiao.com^$important,app=com.dragon.read
@@ -130,9 +130,9 @@ appinn.com##.featured-section
 ||aifwjekfe.xyz^$important,app=com.dragon.read
 ||app.thestaxapp.com^$important,app=com.dragon.read
 ||acquirethem.com^$important,app=com.dragon.read
-||app.rm
-||zijie*
-||pangolin*
+||app.rm$important,app=com.dragon.read
+||zijie*$important,app=com.dragon.read
+||pangolin*$important,app=com.dragon.read
 @@||mssdk*-normal-hl.zijieapi.com^$important,app=com.dragon.read
 @@||v*-fq-tts.fqnovelvod.com$important
 ||api-cn.store.heytapmobi.com^$app=com.heytap.market
@@ -141,7 +141,6 @@ appinn.com##.featured-section
 ||conn1.oppomobile.com/generate_204$app=com.heytap.market
 ||image.coolapk.com/feed/2022/0923/13/3895359_31700208_1098_9577_859@1440x3216.jpeg$app=com.coolapk.market
 @@||175.27.188.191:443^$important,app=com.dragon.read
-||wx.qlogo.cn^$app=com.tencent.mm
 ||market.wsskj*.cn^$important,app=com.dragon.read
 ||i-lq.snssdk.com^$important,app=com.dragon.read
 ||abtest*-misc-lq.zijieapi.com^$important,app=com.dragon.read
@@ -244,3 +243,65 @@ appinn.com##.featured-section
 ||slb-p2p.vcloud.ks-live.com^$important,app=com.dragon.read
 @@||v3-novelapp.fqnovelvod.com^$important,app=com.dragon.read
 @@||v26-novelapp.fqnovelvod.com^$important,app=com.dragon.read
+||siomxity.com^$important,app=com.dragon.read
+||sf*-pitaya-tos.pstatp.com^$important,app=com.dragon.read
+||lf*-pitaya.bytetos.com^$important,app=com.dragon.read
+||pitaya.bytedance.com^$important,app=com.dragon.read
+@@||reading.snssdk.com^$important,app=com.dragon.read
+||0kkkkkt.com^$important,app=com.dragon.read
+||z.cjjd14.com^$important,app=com.dragon.read
+||ahdohpiechei.com^$important,app=com.dragon.read
+||qtaeixd.com^$important,app=com.dragon.read
+||tt.x.bsgslb.cn^$important,app=com.dragon.read
+@@||api5-normal-sinfonlinea.fqnovel.com^$important,app=com.dragon.read
+||dispatch-api-online.vemarsdev.com^$important,app=com.dragon.read
+||lf26-effectcdn-tos.byteeffecttos.com^$important,app=com.dragon.read
+||lf-reward-video.bytedcdn.com^$important,app=com.dragon.read
+||lf*-static.bytednsdoc.com^$important,app=com.dragon.read
+||p*.ecombdimg.com^$important,app=com.dragon.read
+||lf*-fe.ecombdstatic.com^$important,app=com.dragon.read
+||p*-item.ecombdimg.com^$important,app=com.dragon.read
+||p*-piu.byteimg.com^$important,app=com.dragon.read
+||p*-ecop-imagex.byteimg.com^$important,app=com.dragon.read
+||lf*-effectcdn-tos.byteeffecttos.com^$important,app=com.dragon.read
+||lf*-webcastcdn-tos-sign.douyinstatic.com^$important,app=com.dragon.read
+||sf*-cdn-tos.douyinstatic.com^$important,app=com.dragon.read
+||lf*-analytics.bytescm.com^$important,app=com.dragon.read
+||lf*-beecdn.bytetos.com^$important,app=com.dragon.read
+||api.toutiaoapi.com^$important,app=com.dragon.read
+||thclouds.com^$important,app=com.dragon.read
+||p3-novel.byteimg.com^$important,app=com.dragon.read
+||frontier*-toutiao.fqnovel.com^$important,app=com.dragon.read
+||whoami.akamai.net^$important,app=com.dragon.read
+||open.e.189.cn^$important,app=com.dragon.read
+||*normal.ecombdapi.com^$important,app=com.dragon.read
+||*core.ecombdapi.com^$important,app=com.dragon.read
+||zhanzhang.toutiao.com^$important,app=com.dragon.read
+||zlink.toutiao.com^$important,app=com.dragon.read
+||zlink-sinfonline*.toutiao.com^$important,app=com.dragon.read
+||webcast*-open.douyin.com^$important,app=com.dragon.read
+||qcc.qualcomm.cn^$important,app=com.dragon.read
+||pathcf.prod.xtracloud.cn^$important,app=com.dragon.read
+||open.douyin.com^$important,app=com.dragon.read
+||lf-rc1.yhgfb-cn-static.com^$important,app=com.dragon.read
+||datagw-edge.alipay.com^$important,app=com.dragon.read
+
+! 我的消息显示
+@@||reading.snssdk.com^$important,app=com.dragon.read
+@@||lf-fe.fqnovelstatic.com^$important,app=com.dragon.read
+! 完整排行榜
+@@||lf-normal-gr-sourcecdn.bytegecko.com^$important,app=com.dragon.read
+! 首页误拦截
+@@||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
+@@||api5-normal-sinfonlinec.fqnovel.com/reading/bookapi/$important,app=com.dragon.read
+@@||api*-normal-sinfonline*.fqnovel.com/reading/bookapi/$important,app=com.dragon.read
+! 抖音账号登录
+@@||security.snssdk.com^$important,app=com.dragon.read
+! 金币福利页面
+@@||lf-sourcecdn-tos.bytegecko.com^$important,app=com.dragon.read
+! 漫画修复
+@@||p3-novel1-sign.byteimg.com^$important,app=com.dragon.read
+@@||p6-novel1-sign.byteimg.com^$important,app=com.dragon.read
+@@||p9-novel1-sign.byteimg.com^$important,app=com.dragon.read
+! 出版读物插图修复
+@@||p*-novel-sign.byteimg.com/novel-pic/$important,app=com.dragon.read
