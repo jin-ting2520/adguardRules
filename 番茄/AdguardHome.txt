@@ -235,3 +235,6 @@ appinn.com##.featured-section
 ||content-open.douyin.com^$important
 ||webcast-open.douyin.com^$important
 ||im-open.douyin.com^$important
+||frontier*-toutiao.snssdk.com^$important
+||frontier*-toutiao-hl.fqnovel.com^$important
+||frontier*-toutiao-lf.fqnovel.com^$important
