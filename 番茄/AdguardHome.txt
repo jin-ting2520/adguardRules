@@ -253,3 +253,4 @@ appinn.com##.featured-section
 ||z.cjjd14.com^$important
 ||ahdohpiechei.com^$important
 ||qtaeixd.com^$important
+||tt.x.bsgslb.cn^$important
