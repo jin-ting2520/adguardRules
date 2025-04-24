@@ -241,3 +241,5 @@ appinn.com##.featured-section
 ||mon*-misc.fqnovel.com^$important
 ||api.toutiaoapi.com^$important
 ||zlink.toutiao.com^$important
+||config-p2p-other.vcloud.ks-live.com^$important
+||slb-p2p.vcloud.ks-live.com^$important
