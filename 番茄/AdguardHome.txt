@@ -241,4 +241,4 @@ appinn.com##.featured-section
 ||zlink.toutiao.com^$important
 ||config-p2p-other.vcloud.ks-live.com^$important
 ||slb-p2p.vcloud.ks-live.com^$important
-@@||*.bytedance.com^$important^$important
+@@||bytedance.com^$important
