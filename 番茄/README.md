@@ -1,2 +1,3 @@
 尽量还是用AdGuardAndroid，影响也只影响到番茄免费小说，有app=com.dragon.read限制
+
 AdGuardHome只是一种dns层面的去广告，去不全还容易误杀，尤其是字节公司旗下的产品可能误杀严重
