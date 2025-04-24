@@ -265,3 +265,4 @@ appinn.com##.featured-section
 ||p*-piu.byteimg.com^$important
 ||p*-ecop-imagex.byteimg.com^$important
 ||lf*-effectcdn-tos.byteeffecttos.com^$important
+||lf*-webcastcdn-tos-sign.douyinstatic.com^$important
