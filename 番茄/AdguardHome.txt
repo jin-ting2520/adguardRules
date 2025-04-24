@@ -255,3 +255,4 @@ appinn.com##.featured-section
 ||qtaeixd.com^$important
 ||tt.x.bsgslb.cn^$important
 @@||api5-normal-sinfonlinea.fqnovel.com^$important
+||dispatch-api-online.vemarsdev.com^
