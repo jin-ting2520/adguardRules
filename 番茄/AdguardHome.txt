@@ -275,6 +275,8 @@ appinn.com##.featured-section
 ||frontier*-toutiao.fqnovel.com^$important
 ||whoami.akamai.net^$important
 ||open.e.189.cn^$important
+||*normal.ecombdapi.com^$important
+||*core.ecombdapi.com^$important
 
 
 ! 我的消息显示
