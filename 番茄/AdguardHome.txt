@@ -222,6 +222,7 @@ appinn.com##.featured-section
 ||*-ad-sign.byteimg.com^$important
 ||p*-ecom-qualification-sign.ecombdimg.com^$important
 @@||wl.jd.com^$important
+@@||pro.m.jd.com^$important
 ||mktm.jd.com^$important
 ||api-e189.21cn.com^$important
 ||*-core-lq.ecombdapi.com^$important
