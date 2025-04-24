@@ -280,6 +280,8 @@ appinn.com##.featured-section
 ||zhanzhang.toutiao.com^$important
 ||zlink.toutiao.com^$important
 ||zlink-sinfonline*.toutiao.com^$important
+||webcast*-open.douyin.com^$important
+
 
 ! 我的消息显示
 @@||reading.snssdk.com^$important
