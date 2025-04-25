@@ -172,9 +172,6 @@ appinn.com##.featured-section
 ||pull-*-*.ixigua.com^$important
 ||v*-default.ixigua.com^$important
 ||ndcpp.com^$important
-@@||imapi5-oth-*.zijieapi.com^
-# 版本不安全显示
-@@||mssdk3-normal-*.zijieapi.com^
 ||novel.byteimg.com^$important
 ||activity-zhendingtech.com^$important
 ||changdunovel.com^$important
@@ -265,10 +262,8 @@ appinn.com##.featured-section
 ||lf*-beecdn.bytetos.com^$important
 ||api.toutiaoapi.com^$important
 ||thclouds.com^$important
-||p3-novel.byteimg.com^$important
 ||frontier*-toutiao.fqnovel.com^$important
 ||whoami.akamai.net^$important
-||open.e.189.cn^$important
 ||ecom*-normal.ecombdapi.com^$important
 ||ec*-core.ecombdapi.com^$important
 ||zhanzhang.toutiao.com^$important
@@ -282,6 +277,11 @@ appinn.com##.featured-section
 ||ads*-normal.zijieapi.com^$important
 ||rtlog*-applog.fqnovel.com^$important
 
+
+################################################################
+@@||imapi5-oth-*.zijieapi.com^
+# 版本不安全显示
+@@||mssdk3-normal-*.zijieapi.com^
 ! 我的消息显示
 @@||reading.snssdk.com^$important
 @@||lf-fe.fqnovelstatic.com^$important
@@ -290,6 +290,8 @@ appinn.com##.featured-section
 ! 首页误拦截
 @@||api*-sinfnormal.fqnovel.com^$important
 @@||api*-normal-sinfonline*.fqnovel.com$important
+@@||polaris*-normal-lq.zijieapi.com$important
+@@||tnc*-aliec*.bytedance.com^$important
 ! 抖音账号登录
 @@||security.snssdk.com^$important
 ! 金币福利页面
@@ -297,4 +299,6 @@ appinn.com##.featured-section
 ! 漫画修复
 @@||p*-novel1-sign.byteimg.com^$important
 ! 出版读物插图修复
-@@||p*-novel-sign.byteimg.com/novel-pic/$important
+@@||p*-novel-sign.byteimg.com$important
+! 角色对话背景图
+@@||p3-novel.byteimg.com^$important
