@@ -3,10 +3,9 @@
 ||v*-be-pack.pglstatp-toutiao.com^$important
 ||p3-webcast.douyinpic.com^$important
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
-||tnc3-bjlgy.zijieapi.com^$important
+||tnc*-bjlgy.zijieapi.com^$important
 ||log-api.pangolin-sdk-toutiao-b.com^$important
 ||p9-developer-sign.bytemaimg.com^$important
-||tnc11-bjlgy.zijieapi.com^$important
 ||123.6.82.180:80^$important
 ||tnc3-aliec2.zijieapi.com^$important
 /fqnovelvod.*/
@@ -274,8 +273,8 @@ appinn.com##.featured-section
 ||frontier*-toutiao.fqnovel.com^$important
 ||whoami.akamai.net^$important
 ||open.e.189.cn^$important
-||*normal.ecombdapi.com^$important
-||*core.ecombdapi.com^$important
+||ecom*-normal.ecombdapi.com^$important
+||ec*-core.ecombdapi.com^$important
 ||zhanzhang.toutiao.com^$important
 ||zlink.toutiao.com^$important
 ||zlink-sinfonline*.toutiao.com^$important

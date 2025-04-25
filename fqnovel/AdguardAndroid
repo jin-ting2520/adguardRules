@@ -3,10 +3,9 @@
 ||v*-be-pack.pglstatp-toutiao.com^$important,app=com.dragon.read
 ||p3-webcast.douyinpic.com^$important,app=com.dragon.read
 ||api2.coolapk.com/v6/feed/detail$replace=/"include_goods_ids":\[.*?]\,"include_goods":\[.*?]\,/ /
-||tnc3-bjlgy.zijieapi.com^$important,app=com.dragon.read
+||tnc*-bjlgy.zijieapi.com^$important,app=com.dragon.read
 ||log-api.pangolin-sdk-toutiao-b.com^$important,app=com.dragon.read
 ||p9-developer-sign.bytemaimg.com^$important,app=com.dragon.read
-||tnc11-bjlgy.zijieapi.com^$important,app=com.dragon.read
 ||123.6.82.180:80^$important,app=com.dragon.read
 ||tnc3-aliec2.zijieapi.com^$important,app=com.dragon.read
 /fqnovelvod.*/$important,app=com.dragon.read
@@ -274,8 +273,8 @@ appinn.com##.featured-section$important,app=com.dragon.read
 ||frontier*-toutiao.fqnovel.com^$important,app=com.dragon.read
 ||whoami.akamai.net^$important,app=com.dragon.read
 ||open.e.189.cn^$important,app=com.dragon.read
-||*normal.ecombdapi.com^$important,app=com.dragon.read
-||*core.ecombdapi.com^$important,app=com.dragon.read
+||ecom*-normal.ecombdapi.com^$important,app=com.dragon.read
+||ec*-core.ecombdapi.com^$important,app=com.dragon.read
 ||zhanzhang.toutiao.com^$important,app=com.dragon.read
 ||zlink.toutiao.com^$important,app=com.dragon.read
 ||zlink-sinfonline*.toutiao.com^$important,app=com.dragon.read
@@ -286,6 +285,7 @@ appinn.com##.featured-section$important,app=com.dragon.read
 ||lf-rc1.yhgfb-cn-static.com^$important,app=com.dragon.read
 ||ads*-normal.zijieapi.com^$important,app=com.dragon.read
 ||rtlog*-applog.fqnovel.com^$important,app=com.dragon.read
+@@||tnc*-aliec*.bytedance.com^$important,app=com.dragon.read
 
 ! 我的消息显示
 @@||reading.snssdk.com^$important,app=com.dragon.read
