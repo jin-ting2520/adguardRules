@@ -190,8 +190,6 @@ appinn.com##.featured-section
 ||fqnovelim.com^$important
 ||fqnovel-op.com^$important
 ||fqnovelop.com^$important
-||fqnovelpic.com^
-||fqnovelstatic.com^$important
 ||fqnovelvod.com^
 ||ihaohaoxuexi.com^$important
 ||muyewx.com^$important
