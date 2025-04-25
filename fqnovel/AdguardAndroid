@@ -284,8 +284,8 @@ appinn.com##.featured-section$important,app=com.dragon.read
 ||pathcf.prod.xtracloud.cn^$important,app=com.dragon.read
 ||open.douyin.com^$important,app=com.dragon.read
 ||lf-rc1.yhgfb-cn-static.com^$important,app=com.dragon.read
-||ads*-normal.zijieapi.com^$important
-||rtlog*-applog.fqnovel.com^$important
+||ads*-normal.zijieapi.com^$important,app=com.dragon.read
+||rtlog*-applog.fqnovel.com^$important,app=com.dragon.read
 
 ! 我的消息显示
 @@||reading.snssdk.com^$important,app=com.dragon.read
@@ -294,15 +294,12 @@ appinn.com##.featured-section$important,app=com.dragon.read
 @@||lf-normal-gr-sourcecdn.bytegecko.com^$important,app=com.dragon.read
 ! 首页误拦截
 @@||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
-@@||api5-normal-sinfonlinec.fqnovel.com/reading/bookapi/$important,app=com.dragon.read
 @@||api*-normal-sinfonline*.fqnovel.com/reading/bookapi/$important,app=com.dragon.read
 ! 抖音账号登录
 @@||security.snssdk.com^$important,app=com.dragon.read
 ! 金币福利页面
 @@||lf-sourcecdn-tos.bytegecko.com^$important,app=com.dragon.read
 ! 漫画修复
-@@||p3-novel1-sign.byteimg.com^$important,app=com.dragon.read
-@@||p6-novel1-sign.byteimg.com^$important,app=com.dragon.read
-@@||p9-novel1-sign.byteimg.com^$important,app=com.dragon.read
+@@||p*-novel1-sign.byteimg.com^$important,app=com.dragon.read
 ! 出版读物插图修复
 @@||p*-novel-sign.byteimg.com/novel-pic/$important,app=com.dragon.read
