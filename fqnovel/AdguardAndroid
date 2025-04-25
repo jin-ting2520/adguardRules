@@ -29,7 +29,7 @@ appinn.com###sidebar.wp-block-image, .size-full
 ||adash.man.aliyuncs.com^$important,app=com.dragon.read
 ||tnc3-alisc1.zijieapi.com^$important,app=com.dragon.read
 ||111.13.24.68:443^$important,app=com.dragon.read
-||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /
+||api2.coolapk.com/v6/main/indexV8$replace=/{"entityType":"card"\,"entityTemplate":"listCard".*?}"}\,/ /$important,app=com.dragon.read
 /ad-sign.*/$important,app=com.dragon.read
 ||113.207.83.53:443^$important,app=com.dragon.read
 ||ads5-normal-lf.zijieapi.com^$important,app=com.dragon.read
@@ -273,8 +273,10 @@ appinn.com##.featured-section$important,app=com.dragon.read
 ||frontier*-toutiao.fqnovel.com^$important,app=com.dragon.read
 ||whoami.akamai.net^$important,app=com.dragon.read
 ||open.e.189.cn^$important,app=com.dragon.read
-||ecom*-normal.ecombdapi.com^$important,app=com.dragon.read
-||ec*-core.ecombdapi.com^$important,app=com.dragon.read
+||ecom3-normal.ecombdapi.com^$important,app=com.dragon.read
+||ecom5-normal.ecombdapi.com^$important,app=com.dragon.read
+||ec3-core.ecombdapi.com^$important,app=com.dragon.read
+||ec5-core.ecombdapi.com^$important,app=com.dragon.read
 ||zhanzhang.toutiao.com^$important,app=com.dragon.read
 ||zlink.toutiao.com^$important,app=com.dragon.read
 ||zlink-sinfonline*.toutiao.com^$important,app=com.dragon.read
