@@ -223,7 +223,6 @@ appinn.com##.featured-section
 ||*.vegslb.com^$important
 ||api*-normal-lf.fqnovel.com^$important
 ||api*-normal-lq.fqnovel.com^$important
-||api*-normal-sinfonlinea.fqnovel.com^$important
 ||pull-f*-xg.flive.ixigua.com^$important
 ||pull-tsl-l*-encryption.douyincdn.com^$important
 ||pull-f*-io.flive.douyincdn.com^$important
@@ -250,7 +249,6 @@ appinn.com##.featured-section
 ||z.cjjd14.com^$important
 ||qtaeixd.com^$important
 ||tt.x.bsgslb.cn^$important
-@@||api5-normal-sinfonlinea.fqnovel.com^$important
 ||dispatch-api-online.vemarsdev.com^
 ||lf26-effectcdn-tos.byteeffecttos.com^
 ||lf-reward-video.bytedcdn.com^
@@ -291,7 +289,7 @@ appinn.com##.featured-section
 @@||lf-normal-gr-sourcecdn.bytegecko.com^$important
 ! 首页误拦截
 @@||api*-sinfnormal.fqnovel.com^$important
-@@||api*-normal-sinfonline*.fqnovel.com/reading/bookapi/$important
+@@||api*-normal-sinfonline*.fqnovel.com$important
 ! 抖音账号登录
 @@||security.snssdk.com^$important
 ! 金币福利页面
