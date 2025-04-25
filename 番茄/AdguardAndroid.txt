@@ -284,7 +284,8 @@ appinn.com##.featured-section$important,app=com.dragon.read
 ||pathcf.prod.xtracloud.cn^$important,app=com.dragon.read
 ||open.douyin.com^$important,app=com.dragon.read
 ||lf-rc1.yhgfb-cn-static.com^$important,app=com.dragon.read
-||datagw-edge.alipay.com^$important,app=com.dragon.read
+||ads*-normal.zijieapi.com^$important
+||rtlog*-applog.fqnovel.com^$important
 
 ! 我的消息显示
 @@||reading.snssdk.com^$important,app=com.dragon.read
