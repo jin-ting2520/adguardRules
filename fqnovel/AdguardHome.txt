@@ -25,13 +25,13 @@
 ||111.13.24.68:443^$important
 /ad-sign.*/
 ||113.207.83.53:443^$important
-||ads5-normal-lf.zijieapi.com^$important
 ||112.194.65.102:80^$important
 ||112.192.22.90:443^$important
 ||116.132.223.77:443^$important
 /bytegoofy.*/
+||ads*-normal-lf.zijieapi.com^$important
 ||api-access.pangolin-sdk-toutiao.com^$important
-||imapi2.snssdk.com^$important
+||imapi*.snssdk.com^$important
 /byteorge.*/
 /mgsdk-sign.*/
 ||116.169.11.27:443^$important
