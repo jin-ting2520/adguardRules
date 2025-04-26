@@ -125,6 +125,8 @@
 ||abtest*-misc-lq.zijieapi.com^$important
 ||mssdk*-normal-lq.zijieapi.com^$important
 ||is.snssdk.com^$important
+||i.snssdk.com^$important
+||open.e.kuaishou.com^$important
 ||tnc*-alisc*.zijieapi.com^$important
 ||ib-lq.snssdk.com^$important
 ||lf*-cj-cdn-tos.bytegecko.com^$important
@@ -151,7 +153,7 @@
 ||pull-*-*.ixigua.com^$important
 ||v*-default.ixigua.com^$important
 ||ndcpp.com^$important
-||novel.byteimg.com^$important
+||*novel.byteimg.com^$important
 ||activity-zhendingtech.com^$important
 ||changdunovel.com^$important
 ||fanqienovel.com^$important
@@ -257,7 +259,6 @@
 @@||v*-fq-tts.fqnovelvod.com$important
 @@||imapi5-oth-*.zijieapi.com^
 @@||bytedance.com^$important
-@@||reading.snssdk.com^$important
 @@||175.27.188.191:443^$important
 ! 真人读书
 ! @@||v3-novelapp.fqnovelvod.com^$important
@@ -273,7 +274,12 @@
 @@||api*-sinfnormal.fqnovel.com^$important
 @@||api*-normal-sinfonline*.fqnovel.com$important
 @@||polaris*-normal-lq.zijieapi.com$important
-@@||tnc*-aliec*.bytedance.com^$important
+@@||lf*-reading.fqnovelpic.com^$important
+@@||p*-reading-sign.fqnovelpic.com^$important
+@@||lf*-reading.fqnovelstatic.com^$important
+@@||tnc*.bytedance.com^$important
+@@||tnc*.zijieapi.com^$important
+@@||vod-settings.bytedanceapi.com^$important
 ! 抖音账号登录
 @@||security.snssdk.com^$important
 ! 金币福利页面
@@ -282,5 +288,13 @@
 @@||p*-novel1-sign.byteimg.com^$important
 ! 出版读物插图修复
 @@||p*-novel-sign.byteimg.com$important
-! 角色对话背景图
+! 角色对话
 @@||p3-novel.byteimg.com^$important
+@@||reading-lq.snssdk.com^$important
+@@||gecko5-lq.zijieapi.com^$important
+@@||api-access.pangolin-sdk-toutiao1.com^$important
+@@||lf5-cdn-tos.bytegecko.com^$important
+@@||n98-lf-novel-saveu-ncdn.fqnovelstatic.com^$important
+
+
+
