@@ -271,6 +271,7 @@ appinn.com##.featured-section$important,app=com.dragon.read
 @@||lf-normal-gr-sourcecdn.bytegecko.com^$important,app=com.dragon.read
 ! 首页误拦截
 @@||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
+@@||api*-normal-sinfonlinea.fqnovel.com^$important,app=com.dragon.read
 @@||api*-normal-sinfonline*.fqnovel.com$important,app=com.dragon.read
 @@||polaris*-normal-lq.zijieapi.com^$important,app=com.dragon.read
 @@||lf*-reading.fqnovelpic.com^$important,app=com.dragon.read
