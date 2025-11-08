@@ -204,7 +204,6 @@
 ||sf*-cdn-tos.douyinstatic.com^$important
 ||lf*-analytics.bytescm.com^$important
 ||lf*-beecdn.bytetos.com^$important
-||api.toutiaoapi.com^$important
 ||thclouds.com^$important
 ||frontier*-toutiao.fqnovel.com^$important
 ||whoami.akamai.net^$important
