@@ -103,7 +103,6 @@
 ||saveu*-normal-lq.zijieapi.com^$important
 ||tnc*-aliec*.zijieapi.com^$important
 ||vcs-lq.snssdk.com^$important
-||ichannel.snssdk.com^$important
 ||v*-novelapp.fqnovelvod.com^$important
 ||bsync*-normal-lq.zijieapi.com^$important
 ||mon*-misc-lf.fqnovel.com^$important
@@ -264,13 +263,15 @@
 
 
 #####################################################################
-@@||v*-fq-tts.fqnovelvod.com^$important
-@@||imapi5-oth-*.zijieapi.com^$important
-! 真人读书
-! @@||v3-novelapp.fqnovelvod.com^$important
-@@||v26-novelapp.fqnovelvod.com^$important
+@@||ichannel.snssdk.com^$important
+@@||imapi*-oth-*.zijieapi.com^$important
 # 版本不安全显示
 @@||mssdk*-normal-*.zijieapi.com^$important
+! 真人读书
+@@||v*-fq-tts.fqnovelvod.com^$important
+@@||v*-novelapp.fqnovelvod.com^$important
+! 自己的历史评论中的图片
+@@||p*-reading-private.fqnovel.com^$important
 ! 我的消息显示
 @@||reading.snssdk.com^$important
 @@||lf-fe.fqnovelstatic.com^$important
@@ -283,9 +284,10 @@
 @@||lf*-reading.fqnovelpic.com^$important
 @@||p*-reading-sign.fqnovelpic.com^$important
 @@||lf*-reading.fqnovelstatic.com^$important
+@@||vod-settings.bytedanceapi.com^$important
+! 评论
 @@||tnc*.bytedance.com^$important
 @@||tnc*.zijieapi.com^$important
-@@||vod-settings.bytedanceapi.com^$important
 ! 抖音账号登录
 @@||security.snssdk.com^$important
 ! 金币福利页面
@@ -301,3 +303,5 @@
 @@||api-access.pangolin-sdk-toutiao1.com^$important
 @@||lf5-cdn-tos.bytegecko.com^$important
 @@||n98-lf-novel-saveu-ncdn.fqnovelstatic.com^$important
+! 短剧
+@@||v*-reading-video.fqnovelvod.com^$important
