@@ -105,7 +105,6 @@
 ||saveu*-normal-lq.zijieapi.com^$important,app=com.dragon.read
 ||tnc*-aliec*.zijieapi.com^$important,app=com.dragon.read
 ||vcs-lq.snssdk.com^$important,app=com.dragon.read
-||ichannel.snssdk.com^$important,app=com.dragon.read
 ||v*-novelapp.fqnovelvod.com^$important,app=com.dragon.read
 ||bsync*-normal-lq.zijieapi.com^$important,app=com.dragon.read
 ||mon*-misc-lf.fqnovel.com^$important,app=com.dragon.read
@@ -242,13 +241,15 @@ appinn.com###sidebar.wp-block-image, .size-full
 /snssdk.*/$app=com.dragon.read
 
 ################################################################
+@@||ichannel.snssdk.com^$app=com.dragon.read
 @@||imapi*-oth-*.zijieapi.com^$important,app=com.dragon.read
-@@||v*-fq-tts.fqnovelvod.com^$important,app=com.dragon.read
 # 版本不安全显示
 @@||mssdk*-normal-*.zijieapi.com^$important,app=com.dragon.read
 ! 真人读书
-! @@||v3-novelapp.fqnovelvod.com^$important,app=com.dragon.read
-@@||v26-novelapp.fqnovelvod.com^$important,app=com.dragon.read
+@@||v*-fq-tts.fqnovelvod.com^$important,app=com.dragon.read
+@@||v*-novelapp.fqnovelvod.com^$important,app=com.dragon.read
+! 自己的历史评论中的图片
+@@||p*-reading-private.fqnovel.com^$app=com.dragon.read
 ! 我的消息显示
 @@||reading.snssdk.com^$important,app=com.dragon.read
 @@||lf-fe.fqnovelstatic.com^$important,app=com.dragon.read
@@ -261,9 +262,10 @@ appinn.com###sidebar.wp-block-image, .size-full
 @@||lf*-reading.fqnovelpic.com^$important,app=com.dragon.read
 @@||p*-reading-sign.fqnovelpic.com^$important,app=com.dragon.read
 @@||lf*-reading.fqnovelstatic.com^$important,app=com.dragon.read
+@@||vod-settings.bytedanceapi.com^$important,app=com.dragon.read
+! 评论
 @@||tnc*.bytedance.com^$important,app=com.dragon.read
 @@||tnc*.zijieapi.com^$important,app=com.dragon.read
-@@||vod-settings.bytedanceapi.com^$important,app=com.dragon.read
 ! 抖音账号登录
 @@||security.snssdk.com^$important,app=com.dragon.read
 ! 金币福利页面
@@ -279,3 +281,5 @@ appinn.com###sidebar.wp-block-image, .size-full
 @@||api-access.pangolin-sdk-toutiao1.com^$important,app=com.dragon.read
 @@||lf5-cdn-tos.bytegecko.com^$important,app=com.dragon.read
 @@||n98-lf-novel-saveu-ncdn.fqnovelstatic.com^$important,app=com.dragon.read
+! 短剧
+@@||v*-reading-video.fqnovelvod.com^$app=com.dragon.read
