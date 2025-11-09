@@ -225,6 +225,8 @@
 ||lf-rc1.yhgfb-cn-static.com^$important,app=com.dragon.read
 ||ads*-normal.zijieapi.com^$important,app=com.dragon.read
 ||rtlog*-applog.fqnovel.com^$important,app=com.dragon.read
+||frontier*-toutiao-lq.fqnovel.com^$important,app=com.dragon.read
+
 appinn.com###latest-posts .latestPost:nth-child(-n+3)
 appinn.com###sidebar.wp-block-image, .size-full
 
