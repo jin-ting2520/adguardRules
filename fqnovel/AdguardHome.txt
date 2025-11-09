@@ -263,7 +263,7 @@
 
 
 #####################################################################
-@@||ichannel.snssdk.com^$important
+#@@||ichannel.snssdk.com^$important
 @@||imapi*-oth-*.zijieapi.com^$important
 # 版本不安全显示
 @@||mssdk*-normal-*.zijieapi.com^$important
