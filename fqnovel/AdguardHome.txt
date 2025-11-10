@@ -283,7 +283,7 @@
 @@||api*-sinfnormal.fqnovel.com^$important
 @@||api*-normal-sinfonline*.fqnovel.com^$important
 @@||api5-normal-sinfonlinea.fqnovel.com^$important
-@@||polaris*-normal-lq.zijieapi.com^$important
+# @@||polaris*-normal-lq.zijieapi.com^$important
 @@||lf*-reading.fqnovelpic.com^$important
 @@||p*-reading-sign.fqnovelpic.com^$important
 @@||lf*-reading.fqnovelstatic.com^$important
