@@ -1,6 +1,8 @@
 ||*^$important,app=com.dragon.read
 /.*/$app=com.dragon.read
-
+appinn.com##.featured-section
+appinn.com###sidebar.wp-block-image, .size-full
+appinn.com###latest-posts .latestPost:nth-child(-n+3)
 ################################################################
 @@||imapi*-oth-*.zijieapi.com^$important,app=com.dragon.read
 # 版本不安全显示
