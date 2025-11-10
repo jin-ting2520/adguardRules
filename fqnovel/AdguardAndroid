@@ -3,6 +3,21 @@
 appinn.com##.featured-section
 appinn.com###sidebar.wp-block-image, .size-full
 appinn.com###latest-posts .latestPost:nth-child(-n+3)
+
+# IP拦截
+101.206.201.225:443$network,app=com.dragon.read
+116.169.11.31:443$network,app=com.dragon.read
+123.6.82.180:80$network,app=com.dragon.read
+203.119.216.50:443$network,app=com.dragon.read
+111.13.24.68:443$network,app=com.dragon.read
+112.194.65.102:80$network,app=com.dragon.read
+112.192.22.90:443$network,app=com.dragon.read
+116.169.11.27:443$network,app=com.dragon.read
+116.169.48.137:443$network,app=com.dragon.read
+101.207.252.229:443$network,app=com.dragon.read
+14.22.9.191:33445$network,app=com.dragon.read
+175.6.240.197$network,app=com.dragon.read
+
 ################################################################
 @@||imapi*-oth-*.zijieapi.com^$important,app=com.dragon.read
 # 版本不安全显示
