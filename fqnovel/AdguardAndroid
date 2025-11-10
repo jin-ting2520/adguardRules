@@ -1,7 +1,7 @@
+||*^$important,app=com.dragon.read
 /.*/$app=com.dragon.read
 
 ################################################################
-#@@||ichannel.snssdk.com^$app=com.dragon.read
 @@||imapi*-oth-*.zijieapi.com^$important,app=com.dragon.read
 # 版本不安全显示
 @@||mssdk*-normal-*.zijieapi.com^$important,app=com.dragon.read
