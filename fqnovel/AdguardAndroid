@@ -38,7 +38,7 @@ appinn.com###latest-posts .latestPost:nth-child(-n+3)
 @@||api*-sinfnormal.fqnovel.com^$important,app=com.dragon.read
 @@||api*-normal-sinfonline*.fqnovel.com^$important,app=com.dragon.read
 @@||api5-normal-sinfonlinea.fqnovel.com^$important,app=com.dragon.read
-@@||polaris*-normal-lq.zijieapi.com^$important,app=com.dragon.read
+! @@||polaris*-normal-lq.zijieapi.com^$important,app=com.dragon.read
 @@||lf*-reading.fqnovelpic.com^$important,app=com.dragon.read
 @@||p*-reading-sign.fqnovelpic.com^$important,app=com.dragon.read
 @@||lf*-reading.fqnovelstatic.com^$important,app=com.dragon.read
