@@ -24,9 +24,7 @@ appinn.com###latest-posts .latestPost:nth-child(-n+3)
 @@||mssdk*-normal-*.zijieapi.com^$important,app=com.dragon.read
 ! 真人读书
 @@||v*-fq-tts.fqnovelvod.com^$important,app=com.dragon.read
-@@||v6-novelapp.fqnovelvod.com^$important
-@@||v3-novelapp.fqnovelvod.com^$important
-@@||v26-novelapp.fqnovelvod.com^$important
+@@||v26-novelapp.fqnovelvod.com^$important,app=com.dragon.read
 ! 自己的历史评论中的图片
 @@||p*-reading-private.fqnovel.com^$app=com.dragon.read
 ! 我的消息显示
