@@ -271,7 +271,7 @@
 @@||v*-fq-tts.fqnovelvod.com^$important
 ! @@||v6-novelapp.fqnovelvod.com^$important
 ! @@||v3-novelapp.fqnovelvod.com^$important
-@@||v26-novelapp.fqnovelvod.com^$important
+! @@||v26-novelapp.fqnovelvod.com^$important
 ! 自己的历史评论中的图片
 @@||p*-reading-private.fqnovel.com^$important
 ! 我的消息显示
