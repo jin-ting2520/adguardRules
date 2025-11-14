@@ -60,4 +60,4 @@ appinn.com###latest-posts .latestPost:nth-child(-n+3)
 @@||lf5-cdn-tos.bytegecko.com^$important,app=com.dragon.read
 @@||n98-lf-novel-saveu-ncdn.fqnovelstatic.com^$important,app=com.dragon.read
 ! 短剧
-@@||v*-reading-video.fqnovelvod.com^$app=com.dragon.read
+! @@||v*-reading-video.fqnovelvod.com^$app=com.dragon.read
