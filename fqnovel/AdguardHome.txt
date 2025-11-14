@@ -245,6 +245,7 @@
 ||zijieapi.com^$important
 ||frontier*-toutiao-lq.fqnovel.com^$important
 ||ichannel.snssdk.com^$important
+||v*-sz-reading-video.fqnovelvod.com^$important
 # 正则规则屏蔽
 /snssdk.*/
 /zijieapi.*/
